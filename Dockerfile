@@ -6,8 +6,8 @@ RUN	apk update		&&	\
 		openssl			\
 		libstdc++		\
 		ca-certificates		\
-		pcre
-
+		pcre			\
+		ffmpeg
 
 ADD	nginx.tar.gz /opt/
 ADD	nginx.conf /opt/nginx/conf/nginx.conf
