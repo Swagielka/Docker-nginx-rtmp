@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Jason Rivers <docker@jasonrivers.co.uk>
+MAINTAINER Kukielka <kukielka58@gmail.com>
 
 RUN	apk update		&&	\
 	apk add				\
