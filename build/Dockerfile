@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Jason Rivers <docker@jasonrivers.co.uk>
+MAINTAINER Kukielka <kukielka58@gmail.com>
 
 ENV NGINX_VERSION 1.13.9
 
